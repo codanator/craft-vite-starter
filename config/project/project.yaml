@@ -1,0 +1,27 @@
+dateModified: 1682598937
+email:
+  fromEmail: office@true-source.io
+  fromName: starter-boilerplate
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    068ede1e-b2fb-4fe1-a6f0-36f868f5fb5a: starter-boilerplate # starter-boilerplate
+    c57044f3-f2e4-4627-ab16-25457b24b40c: Common # Common
+    d4cb587d-814d-4248-aa28-d3d4c4ad7a89: starter-boilerplate # starter-boilerplate
+plugins:
+  vite:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: pro
+  live: true
+  name: starter-boilerplate
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

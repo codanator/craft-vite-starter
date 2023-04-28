@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: de-DE
+name: starter-boilerplate
+primary: true
+siteGroup: 068ede1e-b2fb-4fe1-a6f0-36f868f5fb5a # starter-boilerplate
+sortOrder: 1
