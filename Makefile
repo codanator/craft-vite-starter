@@ -5,9 +5,9 @@ build:
 dev: up
 	ddev yarn dev
 install:
-	# @echo "applying patches..."
-	# cp patches/docker-compose.vite.yaml .ddev/docker-compose.vite.yaml
-	# cp patches/config.node.yaml .ddev/config.node.yaml
+	@echo "applying patches..."
+	cp patches/docker-compose.vite.yaml .ddev/docker-compose.vite.yaml
+	cp patches/config.node.yaml .ddev/config.node.yaml
 	@echo "cleaning project..."
 	rm -rf patches Makefile
 	mv Makefile.default Makefile
