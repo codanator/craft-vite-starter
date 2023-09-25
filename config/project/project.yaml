@@ -1,13 +1,13 @@
 dateModified: 1682598937
 email:
   fromEmail: office@true-source.io
-  fromName: starter-boilerplate
+  fromName: true-craft-boilerplate
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
-    068ede1e-b2fb-4fe1-a6f0-36f868f5fb5a: starter-boilerplate # starter-boilerplate
+    068ede1e-b2fb-4fe1-a6f0-36f868f5fb5a: true-craft-boilerplate # starter-boilerplate
     c57044f3-f2e4-4627-ab16-25457b24b40c: Common # Common
-    d4cb587d-814d-4248-aa28-d3d4c4ad7a89: starter-boilerplate # starter-boilerplate
+    d4cb587d-814d-4248-aa28-d3d4c4ad7a89: true-craft-boilerplate # starter-boilerplate
 plugins:
   vite:
     edition: standard
@@ -16,7 +16,7 @@ plugins:
 system:
   edition: pro
   live: true
-  name: starter-boilerplate
+  name: true-craft-boilerplate
   schemaVersion: 4.4.0.4
   timeZone: America/Los_Angeles
 users:

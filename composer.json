@@ -1,7 +1,8 @@
 {
   "name": "codanator/craft-vite-starter",
-  "description": "Craft CMS with DDEV & Vite",
+  "description": "True Craft CMS with DDEV & Vite",
   "keywords": [
+    "true-source",
     "craft",
     "cms",
     "craftcms",
@@ -18,7 +19,7 @@
     "rss": "https://craftcms.com/changelog.rss"
   },
   "require": {
-    "craftcms/cms": "^4.4.17",
+    "craftcms/cms": "^4.5.5",
     "nystudio107/craft-vite": "^4.0.6",
     "vlucas/phpdotenv": "^5.5.0"
   },
@@ -39,7 +40,7 @@
     "sort-packages": true,
     "optimize-autoloader": true,
     "platform": {
-      "php": "8.0.2"
+      "php": "8.2.0"
     }
   }
 }
