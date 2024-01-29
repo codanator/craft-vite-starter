@@ -1,4 +1,4 @@
-# craft-vite-starter
+# true-craft-starter
 
 ## Turbostart 🚀
 
