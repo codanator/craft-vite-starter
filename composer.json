@@ -1,6 +1,8 @@
 {
   "name": "codanator/craft-vite-starter",
   "description": "True Craft CMS with DDEV & Vite",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "keywords": [
     "true-source",
     "craft",
@@ -24,7 +26,7 @@
     "vlucas/phpdotenv": "^5.5.0"
   },
   "require-dev": {
-    "craftcms/generator": "^1.6.1",
+    "craftcms/generator": "^2.0.1",
     "yiisoft/yii2-shell": "^2.0.5"
   },
   "autoload": {
