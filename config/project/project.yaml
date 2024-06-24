@@ -17,7 +17,7 @@ system:
   edition: pro
   live: true
   name: true-craft-boilerplate
-  schemaVersion: 4.4.0.4
+  schemaVersion: 5.0.0.21
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
