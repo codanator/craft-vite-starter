@@ -22,7 +22,7 @@
   },
   "require": {
     "craftcms/cms": "^5.0.2",
-    "nystudio107/craft-vite": "5.0.0-beta.3",
+    "nystudio107/craft-vite": "5.0.1",
     "vlucas/phpdotenv": "^5.5.0"
   },
   "require-dev": {
